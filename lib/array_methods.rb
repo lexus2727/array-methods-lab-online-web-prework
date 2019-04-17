@@ -24,7 +24,7 @@ array = ["wow", "I", "am", "really", "learning", "arrays!"]
 array.first
 end
 
-#using the .last method returns the first element from the array
+#using the .last method returns the last element from the array
 def using_last(array)
  array = ["wow", "I", "am", "really", "learning", "arrays!"]
  array.last
